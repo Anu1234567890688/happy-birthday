@@ -16,6 +16,6 @@ function new_image()
     });
     }
 
-function playSound(){
+function playsound(){
 	x.play();
 }
